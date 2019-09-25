@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="141">
-              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+              <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -337,7 +337,7 @@
       <workItem from="1569421465885" duration="3151000" />
       <workItem from="1569425542467" duration="3506000" />
       <workItem from="1569431007442" duration="4467000" />
-      <workItem from="1569435961018" duration="6683000" />
+      <workItem from="1569435961018" duration="6810000" />
     </task>
     <task id="LOCAL-00001" summary="added import.js">
       <created>1568707356672</created>
@@ -409,11 +409,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569442626887</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="change README">
+      <created>1569442706883</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569442706883</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152411000" />
+    <option name="totallyTimeSpent" value="152538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="1319" height="599" extended-state="6" />
@@ -814,7 +821,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
-          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
           <folding />
         </state>
       </provider>
