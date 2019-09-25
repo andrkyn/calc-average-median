@@ -22,12 +22,15 @@
 
 Перейдите в необходимую папку на локальном компьютере cd /.... для загрузки по ссылке:
 
-```git clone https://github.com/andrkyn/calc-average-median.git
+```
+git clone https://github.com/andrkyn/calc-average-median.git
 ```
 
 ## Установить зависимости согласно package.json
 
-```npm install
+
+```
+npm install
 ```
 
 
@@ -36,22 +39,26 @@
 В папке проекта находится файл архива ....txt.bz2, в котором находится файл *.txt необходимый для расчета значений.
 Для распаковки файла использовать команду:
 
-```node unpack 10m.txt.bz2
+
+```
+node unpack 10m.txt.bz2
 ```
 
 После распаковки файла ввести для расчета значений команду:
 
-```node read_result 10m.txt
+
+```
+node read_result 10m.txt
 ```
 
 
 ## Позаимствованные идеи и решения находятся по ссылкам:
 
-Чтение файла в массив (https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array).
-Работа с файлами bz2 в JavaScript (https://github.com/coderaiser/node-inly)
+* ** Чтение файла в массив [stackoverflow](https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array).
+* ** Работа с файлами bz2 в JavaScript [coderaiser/](https://github.com/coderaiser/node-inly)
 
 ## Автор
 
-* **Hilko Andrey**  - [PurpleBooth](https://github.com/Andrkyn)
+* **Hilko Andrey**  - [Andrkyn](https://github.com/andrkyn)
 
 
