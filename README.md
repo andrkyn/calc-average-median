@@ -58,6 +58,6 @@ node read_result 10m.txt
 
 ## Автор
 
-* **Hilko Andrey**  - [Andrkyn](https://github.com/andrkyn)
+* **Hilko Andrey** - [Andrkyn](https://github.com/andrkyn)
 
 
