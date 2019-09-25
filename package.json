@@ -2,9 +2,10 @@
   "name": "calc-average-median",
   "version": "1.0.0",
   "description": "calculating",
-  "main": "import.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node read_result.",
+    "unpack": "node unpack."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/andrkyn/calc-average-median/issues"
   },
-  "homepage": "https://github.com/andrkyn/calc-average-median#readme"
+  "homepage": "https://github.com/andrkyn/calc-average-median#readme",
+  "dependencies": {
+    "inly": "^3.0.4",
+    "inquirer": "^7.0.0"
+  }
 }
