@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/andrkyn/calc-average-median#readme",
   "dependencies": {
-    "inly": "^3.0.4"
+    "inly": "^4.0.8"
   }
 }
